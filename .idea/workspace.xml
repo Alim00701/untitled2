@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a1449e-333e-4a7a-8aa8-f1def669bcb1" name="Default Changelist" comment="add commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2m/черновик.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/2m/черновик.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/home2m/Alimsaid_Abdykadyrov_6_14_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/home2m/Alimsaid_Abdykadyrov_6_14_group.py" afterDir="false" />
-    </list>
+    <list default="true" id="88a1449e-333e-4a7a-8aa8-f1def669bcb1" name="Default Changelist" comment="add commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -332,7 +328,7 @@
       <workItem from="1642423005447" duration="8015000" />
       <workItem from="1642573342607" duration="17075000" />
       <workItem from="1642683040111" duration="3322000" />
-      <workItem from="1642934790666" duration="4133000" />
+      <workItem from="1642934790666" duration="4486000" />
     </task>
     <task id="LOCAL-00001" summary="add commit">
       <created>1642860143138</created>
@@ -341,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642860143139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add commit">
+      <created>1642939631702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642939631702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
