@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a1449e-333e-4a7a-8aa8-f1def669bcb1" name="Default Changelist" comment="add commit" />
+    <list default="true" id="88a1449e-333e-4a7a-8aa8-f1def669bcb1" name="Default Changelist" comment="dz6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -328,7 +330,7 @@
       <workItem from="1642423005447" duration="8015000" />
       <workItem from="1642573342607" duration="17075000" />
       <workItem from="1642683040111" duration="3322000" />
-      <workItem from="1642934790666" duration="4627000" />
+      <workItem from="1642934790666" duration="4957000" />
     </task>
     <task id="LOCAL-00001" summary="add commit">
       <created>1642860143138</created>
@@ -344,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642939631702</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dz6">
+      <created>1642939999823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642939999823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="add commit" />
+    <MESSAGE value="dz6" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled2$lesson_3.coverage" NAME="lesson_3 Coverage Results" MODIFIED="1641821977792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/!ВСЁ!/Python/Home works" />
