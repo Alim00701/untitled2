@@ -1,2 +1,1 @@
-print('ananas')
-print('said')
+
