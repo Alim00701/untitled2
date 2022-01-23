@@ -11,7 +11,7 @@ class S:
         for i in range(len(self.numbers)):
             for n in range(i + 1, len(self.numbers)):
                 if (self.numbers[i] + self.numbers[n]) == self.desired_sum:
-                    return (i, n)
+                    return [i, n]
 
 
 num_1 = S(numbers=[2, 7, 11, 15], desired_sum=num)
