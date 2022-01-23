@@ -47,7 +47,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -328,7 +328,7 @@
       <workItem from="1642423005447" duration="8015000" />
       <workItem from="1642573342607" duration="17075000" />
       <workItem from="1642683040111" duration="3322000" />
-      <workItem from="1642934790666" duration="4486000" />
+      <workItem from="1642934790666" duration="4627000" />
     </task>
     <task id="LOCAL-00001" summary="add commit">
       <created>1642860143138</created>
