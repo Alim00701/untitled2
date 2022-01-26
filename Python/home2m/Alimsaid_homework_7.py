@@ -1,6 +1,6 @@
 while True:
-    string = input("Enter a letter:")
-    if string == string[::-1]:
+    string = int(input("Enter a letter: "))
+    if string < 0 or str(string) != str(string)[::-1]:
         print("Универсальное число")
     else:
         print("Не универсальные")
